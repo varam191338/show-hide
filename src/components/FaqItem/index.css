@@ -1,0 +1,7 @@
+.question-box {
+  display: flex;
+  justify-content: space-between;
+  border-width: 2px;
+  border-color: #d7dae6;
+  border-radius: 10px;
+}
